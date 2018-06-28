@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>GIT Test</title>
     <style>
+    body{
+        background:yellow;
+    }
     h1{
         position:absolute;
         top:45%;
@@ -15,6 +18,7 @@
     }</style>
 </head>
 <body>
+
 <h1>Vivement le mechoui ce midi!!</h1>
     
 </body>
